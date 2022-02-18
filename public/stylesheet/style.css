@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.signup-box{
+    margin: auto;
+    width:60%;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.info-box{
+    text-align: center;
+}
+
+.card{
+    margin: auto;
+}
+.card img{
+    max-height: 200px;
+    max-width: 230px;
+}
